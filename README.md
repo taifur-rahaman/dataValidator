@@ -5,4 +5,3 @@
 - Leap Year Checker
 - Palindrome Checker
 - Prime Number Checker
-- BMI Checker
